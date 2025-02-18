@@ -12,3 +12,6 @@ console.log(d)
 
 let e='This is fifth line'
 console.log(e)
+
+let f='This is sixth line'
+console.log(f)
